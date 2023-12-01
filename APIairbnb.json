@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "name": "Acogedora Cabaña en el Bosque",
+      "location": "Montañas Rocosas, Estados Unidos",
+      "rating": 4.7,
+      "price": 80.00,
+      "currency": "USD",
+      "details": "Cabaña rodeada de bosques con chimenea y senderos para caminar.",
+      "image": "https://example.com/cabin-forest.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Apartamento Elegante en el Centro",
+      "location": "París, Francia",
+      "rating": 4.9,
+      "price": 120.00,
+      "currency": "EUR",
+      "details": "Apartamento moderno con balcones y acceso rápido a las atracciones principales.",
+      "image": "https://example.com/apartment-paris.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Casa de Playa Paradise",
+      "location": "Cancún, México",
+      "rating": 4.6,
+      "price": 150.00,
+      "currency": "USD",
+      "details": "Casa con acceso directo a la playa, piscina y terraza con vista al mar.",
+      "image": "https://example.com/beach-house.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Loft Moderno en el Corazón de Tokio",
+      "location": "Tokio, Japón",
+      "rating": 4.8,
+      "price": 100.00,
+      "currency": "JPY",
+      "details": "Loft con estilo, rodeado de restaurantes y tiendas de moda.",
+      "image": "https://example.com/modern-loft-tokyo.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Chalet de Montaña Sereno",
+      "location": "Alpes Suizos, Suiza",
+      "rating": 4.9,
+      "price": 180.00,
+      "currency": "CHF",
+      "details": "Chalet de lujo con jacuzzi al aire libre y acceso directo a las pistas de esquí.",
+      "image": "https://example.com/mountain-chalet-swiss.jpg"
+    }
+  ]
+  
